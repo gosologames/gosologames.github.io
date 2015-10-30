@@ -1,0 +1,107 @@
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+
+html {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+body {
+    background: transparent url('../images/background.jpg') no-repeat top center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    overflow-y: scroll;
+}
+
+
+
+.left {
+    background-color: transparent;
+    height: 100%;
+    }
+    .logo {
+        display: block;
+        margin: 30px auto 0 auto;
+        max-width: 150px;
+        padding: 0 0 0 0;
+        position: static;
+        width: 100%;
+    }
+    .email {
+        color: darkgray;
+        display: block;
+        font: normal normal normal 16px/1 'Satisfy', cursive;
+        margin: 5% auto 0 -2%;
+        padding: 0 0 0 0;
+        text-align: center;
+        text-decoration: none;
+        top: 200px;
+        transition: all 1s ease;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        width: 100%;
+        }
+        .email:hover, .email:focus, .email:active, .email:visited {
+            color: white;
+            text-decoration: none;
+        }
+
+
+
+.right {
+    background-color: transparent;
+    height: 1000px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    }
+    .cta {
+        background-color: rgba(0, 0, 0, 0.5);
+        color: darkgray;
+        display: inline-block;
+        font: normal normal normal 20px/192px 'Satisfy', cursive;
+        height: 192px;
+        margin: 0 1% 0 1%;
+        padding: 0 0 0 0;
+        text-align: center;
+        text-decoration: none;
+        transition: all 1s ease;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        width: 98%;
+        }
+        .cta:hover, .cta:visited, .cta:active, .cta:focus {
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
+            font-size: 29px;
+            text-decoration: none;
+        }
+    .pic {
+        background-color: transparent;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: block;
+        float: left;
+        height: 20%;
+        margin: 1% 1% 1% 1%;
+        }
+        .d20 { width: 18%; }
+        .d40 { width: 38%; }
+        .d50 { width: 48%; }
+        .d60 { width: 58%; }
+        .p01 { background-image: url('../images/skate-park.jpg'); }
+        .p02 { background-image: url('../images/downtown.jpg'); }
+        .p03 { background-image: url('../images/hand-heart.jpg'); }
+        .p04 { background-image: url('../images/car-plymouth.jpg'); }
+        .p05 { background-image: url('../images/forest.jpg'); }
+        .p06 { background-image: url('../images/plants.jpg'); }
+        .p07 { background-image: url('../images/station.jpg'); }
+        .p08 { background-image: url('../images/river.jpg'); }
+        .p09 { background-image: url('../images/desert.jpg'); }
+        .p10 { background-image: url('../images/sky.jpg'); }
+        .p11 { background-image: url('../images/lake.jpg'); }
+        .p12 { background-image: url('../images/sierra.jpg'); }
+        .p13 { background-image: url('../images/beach.jpg'); }
+        .p14 { background-image: url('../images/coffee.jpg'); }
