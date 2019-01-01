@@ -1,2 +1,2 @@
-# ibarraphotoz.github.io
-Ibarra Photoz Portfolio
+# gosologames.github.io
+go solo games
